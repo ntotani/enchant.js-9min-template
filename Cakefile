@@ -27,7 +27,7 @@ task "ready", "download template files", (options) ->
   download "raw.github.com/wise9/enchant.js/master/plugins/tl.enchant.js", "js/tl.enchant.js"
   download "raw.github.com/wise9/enchant.js/master/plugins/util.enchant.js", "js/util.enchant.js"
   download "raw.github.com/wise9/enchant.js/master/plugins/nineleap.enchant.js", "js/nineleap.enchant.js"
-  #download "raw.github.com/wise9/enchant.js/master/plugins/box2d.enchant.js", "js/box2d.enchant.js"
+  download "raw.github.com/wise9/enchant.js/master/plugins/twitter.enchant.js", "js/twitter.enchant.js"
   download "raw.github.com/kassy708/enchant.js-plugin/master/PhySprite/PhySprite.enchant.js", "js/PhySprite.enchant.js"
   download "github.com/wise9/enchant.js/raw/master/images/chara1.gif", "chara1.gif"
   download "github.com/wise9/enchant.js/raw/master/images/effect0.gif", "effect0.gif"
